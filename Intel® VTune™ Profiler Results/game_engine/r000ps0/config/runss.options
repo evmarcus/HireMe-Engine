@@ -1,0 +1,17 @@
+-r
+C:\Users\evan4\Documents\EECS\EECS498\Game_Engine_Repo\game_engine\Intel® VTune™ Profiler Results\game_engine\r000ps0
+--stack-stitching
+--data-limit-mb=1000
+--disk-space-limit=0
+--mrte-type=java,dotnet
+--stack-unwind-limit=8388608
+--itt-config=frame
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=100
+--platform-type=152
+--app-working-dir=C:\Users\evan4\Documents\EECS\EECS498\Game_Engine_Repo\game_engine\
+--
+C:\Users\evan4\Documents\EECS\EECS498\Game_Engine_Repo\game_engine\x64\Release\game_engine.exe

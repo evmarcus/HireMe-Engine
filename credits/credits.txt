@@ -1,0 +1,3 @@
+TECHNOLOGIES INCORPORATED: C++, Lua, GLM, RapidJSON, LuaBridge, SDL, Box2D
+
+AI tools were used to assist the development of this engine

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1739734404</timestamp>
+  <hostname>Evans-Galaxy-Book-3-360</hostname>
+  <os>windows</os>
+  <product>Intel® VTune™ Profiler 2025.0.1</product>
+  <buildNumber type="s32_t">629235</buildNumber>
+  <logicalCPUCount type="s32_t">16</logicalCPUCount>
+  <physicalCoreCount type="s32_t">12</physicalCoreCount>
+  <processorPackageCount type="s32_t">1</processorPackageCount>
+  <CPUFrequency type="s64_t">2611000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">186</CPUModel>
+  <CPUStepping type="s32_t">2</CPUStepping>
+  <CPUBrandName>13th Gen Intel(R) Core(TM) i7-1360P</CPUBrandName>
+  <isa>avx2</isa>
+  <collectionTimeBegin type="u64_t">1739734404</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1739734421</collectionTimeEnd>
+  <variables>
+   <at>ps0</at>
+  </variables>
+ </rdmgr>
+</root>
