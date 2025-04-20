@@ -1,7 +1,7 @@
 # HireMe Engine
 
 HireMe Engine is a 2D scriptable game engine written in C++.
-It's API is based heavily off of the Unity engine, and composition is the development method of the engine.
+Its API is based heavily off of the Unity engine, and composition is the development method of the engine.
 
 In order to create a game you must have a resources folder in the root of the engine. It should be structured like this:
 
