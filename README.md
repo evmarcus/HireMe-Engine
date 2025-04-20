@@ -1,4 +1,5 @@
 # HireMe Engine
+![HireMeEngineLogoSmall](https://github.com/user-attachments/assets/ab31ec44-9804-4a90-92ba-53e63b56571b)
 
 HireMe Engine is a 2D scriptable game engine written in C++.
 Its API is based heavily off of the Unity engine, and composition is the development method of the engine.
@@ -144,6 +145,8 @@ The name of the file must be the same as the Lua table, so the file here must be
 HireMe Engine does not have a cross system build enviroment, so OSX computers can only build for OSX, and the same goes for Windows and Linux devices. 
 There is a provided Makefile, Visual Studio Project, and XCode project for building on each platform.
 Please feel free to fork the engine and make any changes you would like to!
+
+![ParticleSystem](https://github.com/user-attachments/assets/4c2f4446-028e-43ad-987b-e3a7cbd99a82)
 
 <!---
 In order to build your game you must have CMake version 3.30 or higher installed on your device. Then navigate to the root of the engine in your terminal and execute the following command prompt:
